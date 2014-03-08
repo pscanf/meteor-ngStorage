@@ -1,0 +1,11 @@
+{
+	"name": "ngStorage",
+	"description": "localStorage and sessionStorage done right for AngularJS",
+	"homepage": "https://github.com/pscanf/meteor-ngStorage",
+	"author": "Paolo Scanferla <paolo.scanferla@gmail.com> (https://github.com/pscanf)",
+	"version": "0.3.0",
+	"git": "https://github.com/pscanf/meteor-ngStorage.git",
+	"packages": {
+		"ngMeteor": {}
+	}
+}
